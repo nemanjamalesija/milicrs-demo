@@ -64,3 +64,28 @@ import image15 from '../images/15.jpg'
     </figure>
   </div>
 </template>
+
+<style scoped>
+.gallery-wrapper {
+  display: grid;
+  width: 500px;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 0 auto;
+  gap: 0.5rem;
+  margin-top: 15px;
+}
+
+.gallery__item {
+  border: 1px solid #999;
+}
+
+.gallery__item--6 {
+  grid-column: span 2;
+}
+
+.gallery__item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+</style>

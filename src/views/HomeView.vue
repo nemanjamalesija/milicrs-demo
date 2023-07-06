@@ -1,7 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import BordersSmall from '../components/BordersSmall.vue'
+</script>
 
 <template>
   <main>
-    <h1>App mounter</h1>
+    <BordersSmall />
   </main>
 </template>

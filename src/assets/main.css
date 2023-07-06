@@ -44,5 +44,6 @@ body {
   .gallery-wrapper {
     width: 80%;
     gap: 0.35rem;
+    margin-top: 50px;
   }
 }

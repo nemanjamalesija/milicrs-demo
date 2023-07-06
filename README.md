@@ -1,4 +1,4 @@
-Demo aplication for a private client feturing stamps collection gallery
+Demo aplication for a private client feturing stamps collection galleries
 
 SECTION 1 - gallery with small gap between columns
 

@@ -43,5 +43,6 @@ body {
 @media only screen and (max-width: 1000px) {
   .gallery-wrapper {
     width: 80%;
+    gap: 0.35rem;
   }
 }

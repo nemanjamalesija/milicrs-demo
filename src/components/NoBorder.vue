@@ -70,12 +70,12 @@ import image15 from '../images/15.jpg'
 <style scoped>
 section {
   border-top: 1px solid #999;
-  margin-top: 100px;
-  padding-bottom: 100px;
+  margin-top: 50px;
+  padding-bottom: 50px;
 }
 
 .gallery-wrapper {
-  margin-top: 100px;
+  margin-top: 50px;
   gap: 0;
 }
 
